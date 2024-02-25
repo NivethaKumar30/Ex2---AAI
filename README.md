@@ -1,5 +1,5 @@
-<H3>Enter Name :NIVETHA .K</H3>
-<H3>Enter Register No:212222230102</H3>
+<H3>Name :NIVETHA .K</H3>
+<H3>Register No:212222230102</H3>
 <H3>Experiment 2</H3>
 <H3>Date</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
