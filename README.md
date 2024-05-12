@@ -19,6 +19,7 @@ Step 7: Print the results.<br>
 
 ## Program :
 Import the Librareies
+
 ```
 <from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
@@ -65,10 +66,10 @@ Print the final value
 result = inference.query(variables=[query_variable], evidence=evidence)
 print(result)>
 ```
+
 ## Output :
 
 ![image](https://github.com/NivethaKumar30/Ex2---AAI/assets/119559844/28e707fe-cf86-4ee1-bf9f-2e01d89f2c7e)
-
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
