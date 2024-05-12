@@ -24,7 +24,9 @@ Import the Librareies
 from pgmpy.factors.discrete import TabularCPD
 from pgmpy.inference import VariableElimination
 ```
+
 Define the network structure
+
 ```
 network = BayesianNetwork([('Burglary', 'Alarm'),
                            ('Earthquake', 'Alarm'),
